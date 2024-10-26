@@ -141,7 +141,7 @@ ii.Established ongoing monitoring of SQL performance and usage.
 iii.Implemented optimization techniques to enhance database performance.
 iv.Scheduled regular database consistency checks to ensure data integrity.
 v.Set up automated database backups for disaster recovery.
-vi.Configured email notifications to alert about any performance or integrity issues, with notifications sent to Kayla.McFarlene@triosstudent.com.
+vi.Configured email notifications to alert about any performance or integrity issues, with notifications sent to oumawere2001@gmail.com OR Kayla.McFarlene@triosstudent.com.
 
 
 
